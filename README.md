@@ -32,7 +32,7 @@ O banco de dados contém 6 tabelas relacionais principais:
 
 ## Contato
 Para dúvidas, sugestões ou parcerias, me encontre no LinkedIn:  
-[Yuri Lima | LinkedIn]([https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/yuri-lima01/))
+[Yuri Lima | LinkedIn](https://www.linkedin.com/in/yuri-lima01/)
 
 ---
 
