@@ -16,7 +16,7 @@ O banco de dados contém 6 tabelas relacionais principais:
 ## Conteúdo do Repositório
 - `/queries`: scripts SQL utilizados para análise e geração de KPIs
 - `/dataset`: arquivos CSV com dados simulados para importação
-- `/docs`: imagens e gráficos gerados para apresentação dos insights
+
 
 ## Como rodar o projeto
 1. Importe os arquivos CSV do diretório `/dataset` para o seu banco PostgreSQL.
